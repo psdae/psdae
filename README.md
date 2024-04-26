@@ -21,19 +21,19 @@
 - 제3회 금융 데이터 활용 경진대회 (2023, 최우수 수상)
 
 ### 연구
--  'Rules or Intuition: Analysis of Signal from Monetary Policy Decision'
+-  **'Rules or Intuition: Analysis of Signal from Monetary Policy Decision'**
     - 김현학 교수님(국민대)
     - [Working Paper](files/MPB_statement[03].pdf)
     - [Code Github Repo](https://github.com/psdae/public_bok_statement_01_dtm)
-- '검색 지수를 이용한 거시경제 전망모형 연구'
+- **'검색 지수를 이용한 거시경제 전망모형 연구'**
     - 김현학 교수님(국민대)
     - [Research Paper](files/비정형_전망모형_V4.pdf)
-- '기후변화 위기의 내러티브 분석과 한국의 미래' 연구과제
+- **'기후변화 위기의 내러티브 분석과 한국의 미래' 연구과제**
     - 김현학 교수님(국민대), 최봉석 교수님(국민대)
     - Climate Policy Uncertainty Index
-- '텍스트 마이닝을 이용한 기업 경기 분석 연구' 연구과제
+- **'텍스트 마이닝을 이용한 기업 경기 분석 연구' 연구과제**
     - 김현학 교수님(국민대)
-- '빅데이터와 인공지능에 기반한 거시경제 예측모형 개발 연구' 연구과제
+- **'빅데이터와 인공지능에 기반한 거시경제 예측모형 개발 연구' 연구과제**
     - 정호용 교수님(서울대), 임종호 교수님(연세대), 김현학 교수님(국민대), 최준연 교수님(세종대)
     - [News Scraper Github Repo](https://github.com/psdae/public_news_scraper)
 
