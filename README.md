@@ -1,6 +1,5 @@
 ## Sungdae Park
 
-
 ### 교육
 - 2019.03: 국민대학교 경상대학 경제학과 입학 (2024.08 졸업 예정)
 
@@ -31,6 +30,18 @@
 - '텍스트 마이닝을 이용한 기업 경기 분석 연구' 연구과제
 - '빅데이터와 인공지능에 기반한 거시경제 예측모형 개발 연구' 연구과제
 
+
+### 기술 스택
+##### 언어
+- Python (5 years): Pytorch, Pandas, Sklearn, Fastapi, Flask, etc.
+- R
+
+##### 소프트웨어, 툴
+- IDE: Jupyter, R-Studio, VSCode
+- Container: Docker
+- DB: PostgreSQL, MongoDB, MinIO(S3)
+- OS(server): Ubuntu, Windows Server
+- Cloud: Vultr, AWS
 
 
 <!--
