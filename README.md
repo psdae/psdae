@@ -22,9 +22,9 @@
 
 ### 연구
 -  'Rules or Intuition: Analysis of Signal from Monetary Policy Decision'
-    - (Working Paper Link)
+    - [Working Paper](files/MPB_statement[03].pdf)
 - '검색 지수를 이용한 거시경제 전망모형 연구'
-    - (Paper Link)
+    - [Research Paper](files/비정형_전망모형_V4.pdf)
 - '기후변화 위기의 내러티브 분석과 한국의 미래' 연구과제
     - Climate Policy Uncertainty Index
     - (개념도, 코드)
