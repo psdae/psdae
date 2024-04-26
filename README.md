@@ -23,6 +23,7 @@
 ### 연구
 -  'Rules or Intuition: Analysis of Signal from Monetary Policy Decision'
     - [Working Paper](files/MPB_statement[03].pdf)
+    - [Code Github Repo](https://github.com/psdae/public_bok_statement_01_dtm)
 - '검색 지수를 이용한 거시경제 전망모형 연구'
     - [Research Paper](files/비정형_전망모형_V4.pdf)
 - '기후변화 위기의 내러티브 분석과 한국의 미래' 연구과제
@@ -30,6 +31,7 @@
     - (개념도, 코드)
 - '텍스트 마이닝을 이용한 기업 경기 분석 연구' 연구과제
 - '빅데이터와 인공지능에 기반한 거시경제 예측모형 개발 연구' 연구과제
+    - [News Scraper Github Repo](https://github.com/psdae/public_news_scraper)
 
 
 ### 기술 스택
