@@ -1,4 +1,37 @@
-### Hi there 👋
+## Sungdae Park
+
+
+### 교육
+- 2019.03: 국민대학교 경상대학 경제학과 입학 (2024.08 졸업 예정)
+
+### 주요 활동
+- 2019.12~2020.11: 국민대 경상대학 경제연구회 학술국장
+- 2021 하계 UROP (학부생 연구 참여 프로그램)
+- 2022 하계 UROP
+- 2022.07~(진행중): 학생연구원
+- 2023.01~2023.12: 데이터분석 동아리 ADaM 회장
+- 2024.01~(진행중): ADaM 커리큘럼, 활동 제작 팀장
+
+
+### 대회 참여 및 수상
+- 통계데이터 분석·활용대회 (2021, 참여)
+- 제2회 금융 데이터 활용 경진대회 (2022, 본선 진출(코로나19로 인한 본선 기권))
+- FSI Data Challenge 2022 (2022, 본선 진출)
+- 학부생 연구자 우수성과전 최우수상 (2023, 2022 하계 UROP 성과)
+- 2023년 통계데이터 활용대회 (2023, 참여)
+- 제3회 금융 데이터 활용 경진대회 (2023, 최우수 수상)
+
+### 연구
+-  'Rules or Intuition: Analysis of Signal from Monetary Policy Decision'
+   - (Working Paper Link)
+- '검색 지수를 이용한 거시경제 전망모형 연구'
+	- (Paper Link)
+- Climate Policy Uncertainty Index
+  - (개념도, 코드)
+- '텍스트 마이닝을 이용한 기업 경기 분석 연구' 연구과제
+- '빅데이터와 인공지능에 기반한 거시경제 예측모형 개발 연구' 연구과제
+
+
 
 <!--
 **psdae/psdae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
