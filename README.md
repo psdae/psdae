@@ -1,4 +1,4 @@
-## Sungdae Park
+# Sungdae Park
 
 ### 교육
 - 2019.03: 국민대학교 경상대학 경제학과 입학 (2024.08 졸업 예정)
@@ -33,7 +33,7 @@
 
 ### 기술 스택
 ##### 언어
-- Python (5 years): Pytorch, Pandas, Sklearn, Fastapi, Flask, etc.
+- **Python** (5 years): Pytorch, Pandas, Sklearn, Fastapi, Flask, etc.
 - R
 
 ##### 소프트웨어, 툴
