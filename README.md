@@ -48,7 +48,7 @@
 - Container: Docker
 - DB: PostgreSQL, MongoDB, MinIO(S3)
 - OS(server): Ubuntu, Windows Server
-- Cloud: Vultr, AWS
+- Cloud: OCI(Oracle Cloud Infrastructure), Vultr, AWS
 
 
 <!--
