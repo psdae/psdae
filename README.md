@@ -31,6 +31,7 @@
 - **'기후변화 위기의 내러티브 분석과 한국의 미래' 연구과제**
     - 김현학 교수님(국민대), 최봉석 교수님(국민대)
     - Climate Policy Uncertainty Index
+    - [Code Github Repo(CPU Index)](https://github.com/psdae/public_cpu_index)
 - **'텍스트 마이닝을 이용한 기업 경기 분석 연구' 연구과제**
     - 김현학 교수님(국민대)
 - **'빅데이터와 인공지능에 기반한 거시경제 예측모형 개발 연구' 연구과제**
