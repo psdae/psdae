@@ -1,5 +1,6 @@
 # Sungdae Park
 
+<!--
 ### 교육
 - 2019.03: 국민대학교 경상대학 경제학과 입학 (2024.08 졸업 예정)
 
@@ -50,6 +51,8 @@
 - DB: PostgreSQL, MongoDB, MinIO(S3)
 - OS(server): Ubuntu, Windows Server
 - Cloud: OCI(Oracle Cloud Infrastructure), Vultr, AWS
+
+-->
 
 
 <!--
